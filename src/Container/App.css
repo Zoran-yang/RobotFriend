@@ -1,0 +1,19 @@
+@font-face{
+  font-family: Patchy Robots;
+  src:url('./patchy-robots-cufonfonts-webfont/Patchy Robots.woff') format('woff');
+}
+
+h1{
+  font-family: Patchy Robots;
+  font-weight: 200;
+  color: dodgerblue;
+}
+
+
+body {
+  background: linear-gradient(45deg, red, blue);
+}
+
+
+
+
